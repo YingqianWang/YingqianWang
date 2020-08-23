@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 
 - Ph.D student at School of Computer Science & Technology, East China Normal University, Shanghai, China. (09/2016 - Now)
 
-- Bachelor student at School of Computer Science & Technology, Jiangxi Normal University, Nanchang, China.
+- Bachelor student at School of Computer Science & Technology, Jiangxi Normal University.(09/2012 - 07/2016) 
 
-  (09/2012 - 07/2016) 
 
 ## Research Experiences
 
