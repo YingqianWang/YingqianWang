@@ -21,14 +21,6 @@ Here are some ideas to get you started:
 - 📫  Email me at: wangyingqian16@nudt.edu.cn
 - 💬  My homepage: [Yingqian Wang's Homepage](https://yingqianwang.github.io/)
 
-
-## Education
-
-- Ph.D student at College of Electronic Science and Technology, National University of Defense Technology, Changsha, China. (03/2019 - Now)
-- Master student at College of Electronic Science and Technology, National University of Defense Technology, Changsha, China. (09/2016 - 12/2018)
-- Bachelor student at College of Electric Engineering, Shandong University, Shandong, China. (09/2012 - 07/2016) 
-
-
 ## Selected Publications
 
 - [Parallax Attention for Unsupervised Stereo Correspondence Learning, TPAMI 2020](https://arxiv.org/pdf/2009.08250.pdf)
