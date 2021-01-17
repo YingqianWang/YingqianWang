@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**CV-JunchengLi/CV-JunchengLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YingqianWang/YingqianWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,34 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Juncheng Li -- 李俊诚
+## I'm Yingqian Wang -- 王应谦
 
-[![](https://img.shields.io/badge/Research-GoogleScholar-888888)](https://scholar.google.com.hk/citations?user=a5jkbmkAAAAJ&hl=zh-CN)
+- 🔭  I’m currently working torwards the Ph.D degree.
+- 🌱  I'm currently focusing on light field imaging and image super-resolution.
+- 📫  Email me at: wangyingqian16@nudt.edu.cn
+- 💬  My homepage: [Yingqian Wang's HomePage](https://yingqianwang.github.io/)
 
-- 🔭  I’m currently working on Image Processing via Deep Learning
-- 🌱  I'm currently learning Knowledge Distillation
-- 🤔  I’m looking for Postdoctoral Position at 2021 Fall
-- 📫  Email me at: cvjunchengli@gmail.com
-- ⚡  My homepage: [Juncheng Li's HomePage](https://junchenglee.com)
-- 😄  My open source projects are stored in: [MIVRC](https://github.com/MIVRC)
 
 ## Education
 
-- Ph.D student at School of Computer Science & Technology, East China Normal University, Shanghai, China. (09/2016 - Now)
+- Ph.D student at College of Electronic Science and Technology, National University of Defense Technology, Changsha, China. (03/2019 - Now)
+- Master student at College of Electronic Science and Technology, National University of Defense Technology, Changsha, China. (09/2016 - 12/2018)
+- Bachelor student at College of Electric Engineering, Shandong University.(09/2012 - 07/2016) 
 
-- Bachelor student at School of Computer Science & Technology, Jiangxi Normal University.(09/2012 - 07/2016) 
 
+## Selected Publications
 
-## Research Experiences
-
-| Organization                        | Position           | Time              |
-| :---------------------------------- | :----------------- | :---------------- |
-| The Chinese University of Hong Kong | Academic Visitor   | 08/2019 - 09/2019 |
-| The Chinese University of Hong Kong | Research Assistant | 05/2018 - 10/2018 |
-
-## Representative Publications
-
-- [Multi-level Edge Features Guided Network for Image Denoising (TNNLS 2020)](https://junchenglee.com/projects/TNNLS2020_MLEFGN)
-- [Soft-edge Assisted Network for Single Image Super-Resolution (TIP 2020)](https://junchenglee.com/projects/TIP2020_SEANET)
-- [Lightweight and Accurate Recursive Fractal Network for Image Super-Resolution (ICCVW 2019, Oral)]()
-- [Multi-scale Residual Network for Image Super-Resolution (ECCV 2018)](https://junchenglee.com/projects/ECCV2018_MSRN)
+- [Parallax Attention for Unsupervised Stereo Correspondence Learning, TPAMI 2020](https://arxiv.org/pdf/2009.08250.pdf)
+- [Light Field Image Super-Resolution Using Deformable Convolution, TIP 2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286855)
+- [Spatial-Angular Interaction for Light Field Image Super-Resolution, ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)
+- [Learning Parallax Attention for Stereo Image Super-Resolution, CVPR 2019](openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Parallax_Attention_for_Stereo_Image_Super-Resolution_CVPR_2019_paper.pdf)
