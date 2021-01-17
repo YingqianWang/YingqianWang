@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 - 🔭  I’m currently working torwards the Ph.D degree.
 - 🌱  I'm interest in light field imaging and image super-resolution.
-- 📫  Email me at: wangyingqian16@nudt.edu.cn
-- 💬  My homepage: [Yingqian Wang's Homepage](https://yingqianwang.github.io/)
+- ✨  My homepage is [https://yingqianwang.github.io/](https://yingqianwang.github.io/).
+- 📫  My email address is wangyingqian16@nudt.edu.cn.
 
-## Selected Publications
+
+## My Selected Publications
 
 - [Light Field Image Super-Resolution Using Deformable Convolution, TIP 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286855)
 - [Parallax Attention for Unsupervised Stereo Correspondence Learning, TPAMI 2020](https://arxiv.org/pdf/2009.08250.pdf)
