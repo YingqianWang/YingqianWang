@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 - 🔭  I’m currently working torwards the Ph.D degree.
 - 🌱  I'm currently focusing on light field imaging and image super-resolution.
 - 📫  Email me at: wangyingqian16@nudt.edu.cn
-- 💬  My homepage: [Yingqian Wang's HomePage](https://yingqianwang.github.io/)
+- 💬  My homepage: [Yingqian Wang's Homepage](https://yingqianwang.github.io/)
 
 
 ## Education
 
 - Ph.D student at College of Electronic Science and Technology, National University of Defense Technology, Changsha, China. (03/2019 - Now)
 - Master student at College of Electronic Science and Technology, National University of Defense Technology, Changsha, China. (09/2016 - 12/2018)
-- Bachelor student at College of Electric Engineering, Shandong University.(09/2012 - 07/2016) 
+- Bachelor student at College of Electric Engineering, Shandong University, Shandong, China. (09/2012 - 07/2016) 
 
 
 ## Selected Publications
