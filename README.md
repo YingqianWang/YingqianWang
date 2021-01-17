@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm Yingqian Wang -- 王应谦
 
 - 🔭  I’m currently working torwards the Ph.D degree.
-- 🌱  I'm currently focusing on light field imaging and image super-resolution.
+- 🌱  I'm interest in light field imaging and image super-resolution.
 - 📫  Email me at: wangyingqian16@nudt.edu.cn
 - 💬  My homepage: [Yingqian Wang's Homepage](https://yingqianwang.github.io/)
 
