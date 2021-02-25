@@ -16,7 +16,7 @@
 <a href="https://github.com/YingqianWang/LF-InterNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-InterNet&cache_seconds=10&theme=solarized-light" alt="" /></a>
 <a href="https://github.com/YingqianWang/LF-DFnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-DFnet&cache_seconds=5&theme=solarized-light" alt=""/></a>
 <a href="https://github.com/YingqianWang/iPASSR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=iPASSR&cache_seconds=10&theme=solarized-light" alt=""/></a>
-<a href="https://github.com/YingqianWang/Flickr1024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Flickr1024&cache_seconds=10&theme=vue" alt=""  /></a>|
+<a href="https://github.com/YingqianWang/Flickr1024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Flickr1024&cache_seconds=10&theme=solarized-light" alt=""  /></a>|
 <a href="https://github.com/YingqianWang/Awesome-Stereo-Image-SR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Awesome-Stereo-Image-SR&cache_seconds=10&theme=default" alt=""  /></a>
 <a href="https://github.com/YingqianWang/Awesome-LF-Image-SR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Awesome-LF-Image-SR&cache_seconds=10&theme=default" alt=""  /></a>
 <a href="https://github.com/YingqianWang/DeOccNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=DeOccNet&cache_seconds=10&theme=default" alt=""  /></a>
