@@ -13,9 +13,9 @@
 - [Spatial-Angular Interaction for Light Field Image Super-Resolution, ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)
 - [Learning Parallax Attention for Stereo Image Super-Resolution, CVPR 2019](openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Parallax_Attention_for_Stereo_Image_Super-Resolution_CVPR_2019_paper.pdf)
 
-<a href="https://github.com/YingqianWang/LF-InterNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-InterNet&cache_seconds=10&theme=buefy" alt="" /></a>
+<a href="https://github.com/YingqianWang/LF-InterNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-InterNet&cache_seconds=10&theme=solarized-light" alt="" /></a>
 <a href="https://github.com/YingqianWang/LF-DFnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-DFnet&cache_seconds=5&theme=solarized-light" alt=""/></a>
-<a href="https://github.com/YingqianWang/iPASSR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=iPASSR&cache_seconds=10&theme=flag-india" alt=""  /></a>
+<a href="https://github.com/YingqianWang/iPASSR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=iPASSR&cache_seconds=10&theme=solarized-light" alt=""  /></a>
 <a href="https://github.com/YingqianWang/Flickr1024"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Flickr1024&cache_seconds=10&theme=vue" alt=""  /></a>|
 <a href="https://github.com/YingqianWang/Awesome-Stereo-Image-SR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Awesome-Stereo-Image-SR&cache_seconds=10&theme=default" alt=""  /></a>
 <a href="https://github.com/YingqianWang/Awesome-LF-Image-SR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=Awesome-LF-Image-SR&cache_seconds=10&theme=default" alt=""  /></a>
