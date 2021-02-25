@@ -1,9 +1,9 @@
-### Yingqian Wang -- 王应谦
-**[[Homepage](https://yingqianwang.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=tBA4alMAAAAJ&hl=en)]**
+## Yingqian Wang -- 王应谦
+### [[Homepage](https://yingqianwang.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=tBA4alMAAAAJ&hl=en)]
 
-**I’m currently working torwards the Ph.D degree. My research interests include light field imaging and image super-resolution.**
+### I’m currently working torwards the Ph.D degree. My research interests include light field imaging and image super-resolution.<br>
 
-### 🌱News🌱 
+## 🌱News🌱 
 - **The source codes of [LF-DFnet](https://github.com/cszn/BSRNet) is released.**
 
 ## My Selected Publications
