@@ -16,7 +16,7 @@
 <a href="https://github.com/YingqianWang/LF-InterNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-InterNet&cache_seconds=10&theme=buefy" alt="" /></a>
 <a href="https://github.com/YingqianWang/LF-DFnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=LF-DFnet&cache_seconds=5&theme=solarized-light" alt=""/></a>
 <a href="https://github.com/YingqianWang/iPASSR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YingqianWang&repo=iPASSR&cache_seconds=10&theme=flag-india" alt=""/></a>
-<a href="https://github.com/LongguangWang/PAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LongguangWang&repo=PAM&cache_seconds=10&theme=solarized-light" alt=""/></a>|
+<a href="https://github.com/LongguangWang/PAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LongguangWang&repo=PAM&cache_seconds=10&theme=vue" alt=""/></a>|
 <a href="https://github.com/LongguangWang/PASSRnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LongguangWang&repo=PASSRnet&cache_seconds=10&theme=default" alt=""/></a>
 <a href="https://github.com/LongguangWang/SMSR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LongguangWang&repo=SMSR&cache_seconds=10&theme=default" alt=""  /></a>
 <a href="https://github.com/LongguangWang/Scale-Arbitrary-SR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LongguangWang&repo=Scale-Arbitrary-SR&cache_seconds=10&theme=default" alt=""  /></a>
