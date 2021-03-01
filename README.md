@@ -7,7 +7,8 @@
 - **The source codes of [LF-DFnet](https://github.com/YingqianWang/LF-DFnet) have been released.**<br><br>
 
 ## My Selected Publications
-
+- [Unsupervised Degradation Representation Learning for Blind Super-Resolution](https://yingqianwang.github.io/)
+- [Learning Sparse Masks for Efficient Image Super-Resolution, CVPR 2021](https://arxiv.org/pdf/2006.09603.pdf)
 - [Light Field Image Super-Resolution Using Deformable Convolution, TIP 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286855)
 - [Parallax Attention for Unsupervised Stereo Correspondence Learning, TPAMI 2020](https://arxiv.org/pdf/2009.08250.pdf)
 - [Spatial-Angular Interaction for Light Field Image Super-Resolution, ECCV 2020](https://arxiv.org/pdf/1912.07849.pdf)
